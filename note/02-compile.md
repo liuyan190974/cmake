@@ -35,6 +35,8 @@
 ```cpp
 #include <iostream>
 using namespace std;
+
+void swap(int&a, int &b);
 ```
 
 `swap.cpp`文件，这个文件中定义了我们将在主函数中调用的C++代码
